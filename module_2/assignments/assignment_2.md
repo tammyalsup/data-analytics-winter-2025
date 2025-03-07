@@ -31,7 +31,7 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
   * Add a filter
   * Freeze top row      
 - [X] Review each column to understand the available options in each
-- [X]] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
+- [X] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
 - [X] Preform any additional data cleaning tasks as needed
 - [X] Do you notice any data quality issues to make a note of? 
 
