@@ -43,4 +43,4 @@ _Est. Time to Complete: 60 mins_
 In this video, you'll get an overview of Power BI design tricks and tips. 
 
 - [x] Watch [this](https://www.youtube.com/watch?v=zaFTAT6_jCs) video 
-- [ ] Apply design tricks to your previously completed dashboard 
+- [X] Apply design tricks to your previously completed dashboard 
