@@ -6,14 +6,12 @@ This course is eligible for a microcredential through Weber State.
 
 ## Step 1:
 
-- [ ] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
+- [ ] Complete the [Weber St registration & Enroll in the Tech-Moms 2.0 Data Analytics Course](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
 
 ## Step 2: 
 
-- [ ] Create a [Portfolium Account](https://portfolium.com/login)
+- [ ] Once enrolled you will recieve an email. 
+- [ ] Follow the directions in this [presentation](https://github.com/user-attachments/files/19672608/Microcredentials.Step.by.Step.1.pdf) to complete your Microcredential by uploading each of your projects from the semester.  
 
 
-## Step 3: 
-
-[Microcredentials Step by Step  (1).pdf](https://github.com/user-attachments/files/19672608/Microcredentials.Step.by.Step.1.pdf)
 
