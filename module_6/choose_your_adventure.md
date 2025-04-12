@@ -4,15 +4,13 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 
 # Video Lessons: 
 
-- [x] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
-- [x] Video Lesson: https://www.youtube.com/watch?v=I0vQ_VLZTWg
+- [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
 - [ ] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
 
-
-- [x] Add your completed project to [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197). 
-- [x] Celebrate! Learning how to learning is an important part of learning! 
+- [ ] Add your completed project to [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197). 
+- [ ] Celebrate! Learning how to learning is an important part of learning! 
 
 ## Wednesday, March 19th, 2025 - In Class Agenda: 
 
