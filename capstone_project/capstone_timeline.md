@@ -2,11 +2,11 @@
 
 ## Week 1 - Monday, April 7th, 2025 
 
-- [x] Confirm your project 
-- [x] Data in hand and start analysis
-- [x] Get to know your data (create a data dictionary if needed)
-- [x] Clean the data
-- [x] Do exploritory analysis - ask questions of the data 
+- [ ] Confirm your project 
+- [ ] Data in hand and start analysis
+- [ ] Get to know your data (create a data dictionary if needed)
+- [ ] Clean the data
+- [ ] Do exploritory analysis - ask questions of the data 
 
 ## Week 2 -  Monday, April 14th, 2025
 
