@@ -1,6 +1,6 @@
 # 🎓 Data Class Graduation — Run of Show  
 
-**Date:** 5/3/25 • **Time:** 10 AM – 2 PM • **Location:** _(venue + Zoom link)_
+**Date:** 5/3/25 • **Time:** 10 AM – 2 PM • **Location:** SeekWell
 
 | Time (MT) | Segment | Owner | Notes / Tech Cues |
 |-----------|---------|-------|-------------------|
